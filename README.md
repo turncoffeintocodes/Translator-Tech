@@ -21,3 +21,6 @@ In this project, the following files are explained.
 
 5. **Note:** The two folders under the name of Yemba and Ngeumba contains the audio files of the traditional local languages 
       of Cameroon.
+
+Link to google drive project folder: https://drive.google.com/drive/folders/1_NZ8j_IFY28roGeJzfUk5A5RMohAx0_c?usp=sharing
+**Note:** If you wish to have editing permissions on drive kindly send an email to ftchouanga@gamil.com upon your request.
