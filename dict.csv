@@ -1,0 +1,308 @@
+sentence_id,sentence
+1,bonjour 
+2,bonsoir 
+3,je m'appelle
+4,je suis
+5,j'ai faim
+6,je vais au marché
+7,Entrez
+8,entre
+9,Sortez 
+10,sors
+11,je ne me sens pas bien 
+12,est ce que je peux aller à la maison ?
+13,Ça va comme ça ?
+14,Asseyez-vous 
+15,va t´asseoir
+16,Qui n´est pas là aujourd´hui ?
+17,Efface
+18,Efface le tableau
+19,Où est la brosse ?
+20,Où est ta brosse ?
+21,Fermez la porte
+22,Ouvrez la fenêtre
+23,Change de place.
+24,Sortez votre matériel.
+25,Taisez-vous s´il-vous plaît 
+26,Vous êtes prêts ?
+27,Fermez vos livres et prenez votre cahier 
+28,C´est difficile
+29,Je ne sais pas faire les exercices
+30,Je n´ai pas fini
+31,Qu´est-ce qu´il faut faire pour la prochaine fois ?
+32,Il faut copier les énoncés ?
+33,Quels exercices il faut faire ?
+34,Je ne comprends pas 
+35,Vous pouvez répéter ?
+36,Comment ça s´écrit ?
+37,Qu´est-ce que ça veut dire ?
+38,Plus fort
+39,Encore une fois
+40,Ça va c´est bien
+41,ça suffit.
+42,Tu peux parler plus fort s´il te plait je n´entends pas?
+43,Vous entendez bien au fond ?
+44,Je peux changer de place ?
+45,Je peux m´asseoir à côté de ...?
+46,Je peux ouvrir ou fermer la fenêtre ?
+47,Je peux effacer le tableau ?
+48,Je peux écrire la date ?
+49,Je peux sortir ?
+50,Je peux aller aux toilettes ?
+51,J´ai oublié mon livre
+52,mon cahier
+53,Je n´ai pas de stylo
+54,J´ai perdu la photocopie
+55,Qu´est-ce que ça veut dire
+56,Adieu les amis 
+57,vous pouvez m'aider s'il vous plaît ?
+58,Venez ici s'il vous plait ?
+59,Vous avez 10 min pour moi 
+60,Ecoutez bien
+61,Regardez ici
+62,Ou se trouve la ville
+63,Je serai absent demain 
+64,Je  ne serai pas la semaine prochaine 
+65,Vous pouvez répétez ?
+66,C´est bien 
+67,très bien 
+68,parfait 
+69,excellent 
+70,Tu as très bien compris
+71,C´est un bon travail 
+72,Tu as gagné un
+73,Tu t´es trompé 
+74,Ce n´est pas comme ça
+75,Au revoir 
+76,A la semaine prochaine 
+77,Bonnes vacances
+78,Bonne journée 
+79,Bonne soirée
+80,Bonne année 
+81,A bientôt
+82,je te remercie beaucoup.
+83,Merci beaucoup Madame.
+84,Je te remercie très sincèrement.
+85,Je vous remercie infiniment.
+86,"Merci bien, jeune homme."
+87,C'est très aimable à vous.
+88,C'est très gentil à vous. 
+89,Bienvenue
+90,C’est combien ?
+91,Oui
+92,Non
+93,Au revoir
+94,Comment allez-vous ?
+95,"Très bien, merci, et vous ?"
+96,Parlez-vous français?
+97,Parlez-vous anglais ?
+98,Pardon
+99,Je comprends
+100,Je ne comprends pas
+101,Excusez-moi
+102,Non merci
+103,De rien
+104,Je vous en prie
+105,C’est très bon marché
+106,C’est trop cher 
+107,Pouvez-vous baisser le prix ?
+108,Je voudrais acheter
+109,Je voudrais acheter ça
+110,Je voudrais acheter celui-ci
+111,J’adore
+112,Je déteste
+113,Argent
+114,Je ne fais que regarder.
+115,Je voudrais aller
+116,Avion
+117,Bateau
+118,Train
+119,Taxi
+120,Bus
+121,Je voudrais louer
+122,Moto
+123,Voiture
+124,Vélo
+125,Où est
+126,Comment aller à
+127,Banque
+128,Gare
+129,Centre-ville
+130,Hôtel
+131,Hôpital
+132,Est-ce près?
+133,Est-ce loin ?
+134,Tout droit
+135,Gauche
+136,Droite
+137,Nord
+138,Sud
+139,Est
+140,Ouest
+141,un
+142,deux
+143,trois
+144,quatre
+145,cinq
+146,six
+147,sept
+148,huit
+149,neuf
+150,dix
+151,vingt
+152,trente
+153,quarante
+154,cinquante
+155,soixante
+156,soixante-dix
+157,quatre-vingts
+158,quatre-vingt-dix
+159,cent
+160,Quelle heure est-il ?
+161,Quand ?
+162,Hier
+163,Aujourd’hui
+164,matin
+165,midi
+166,soir
+167,Demain
+168,Lundi
+169,mardi
+170,mercredi
+171,jeudi
+172,vendredi
+173,samedi
+174,dimanche
+175,Je suis ici en vacances
+176,Je suis en voyage
+177,Je suis ici pour le travail
+178,Comment tu vas
+179,Je vais bien et toi
+180,Au revoir 
+181,Sa va bien
+182,A ce soir
+183,A demain
+184,Voici mon pere
+185,Il S'appelle
+186,Voici ma mere
+187,Elle s'appelle
+188,Ma seour s'appelle
+189,Ma petite seour s'appelle
+190,Je suis né à Yaoundé dans le centre du Cameroun 
+191,Mon grand frères'appelle
+192,Voici mon pere
+193,Il s'appelle
+194,Voici ma mere
+195,Elle s'appelle
+196,Ma seour s'appelle
+197,Ma petite seour s'appelle
+198,Je suis né à Yaoundé dans le centre du Cameroun 
+199,Mon grand frères'appelle
+200,Je vais a l'hopital
+201,Je suis malade
+202,Docteur
+203,j'etais à l'infirmerie
+204,Infirmiere
+205,Patient
+206,Palu
+207,Maladie
+208,Je suis guéri
+209,j'ai la fièvre
+210,je suis enceinte
+211,la pédiatrie
+212,elle a subit une opération chirurgicale
+213,la pharmacie
+214,les médicaments
+215,le paludisme
+216,le diabète
+217,la vaccination
+218,injection
+219,carnet de consultation
+220,le dossier medical
+221,le certificat médical
+222,le laboratoire
+223,les examens médicaux
+224,le diagnostic
+225,J’ai oublié mon stylo à la maison
+226,jaime l'ecole
+227,J'aime le travaille en groupe
+228,J'aime mes amis
+229,effacer le tableau
+230,prenez vos ardoises
+231,la craie
+232,l'effaceoir
+233,la remise des bulletins
+234,la rentrée scolaire
+235,la rentrée academique
+236,la journée pédagogique
+237,le rassemblement
+238,Bravo
+239,Continue comme ca
+240,Du courage
+241,Ce n'est pas bien
+242,C'est mauvais
+243,Mes félicitations
+244,félicitations
+245,Comment je peut faire pour aller a...
+246,Je vais à l'église
+247,Je pars au marché
+248,Je rentre de
+249,Je voyage pour Bamenda
+250,Bonne fete
+251,Bon sejour
+252,Bonne chance
+253,Courage
+254,Dieu te garde
+255,Nous rendons grace a Dieu
+256,Alléluia
+257,Merci monsieur
+258,Merci
+259,c'est gentil
+260,Je fais des achats
+261,Combien ca coute?
+262,Est-ce que je peut voir le menu?
+263,Est-ce que je peut voir le catalogues? 
+264,"C'est cher,, coûteux, à prix élevé"
+265,pas cher
+266,bon marché
+267,moins cher
+268,peu cher
+269,Je suis au marche
+270,Je suis à la boutique
+271,J’ai faim
+272,j’ai soif
+273,Bon appétit
+274,Santé 
+275,C’était délicieux 
+276,Qu’est-ce que vous me recommandez?
+277,Je suis végétarien
+278,Sans épice 
+279,Je n’aime pas les épices
+280,C’est trop chaud 
+281,Je suis allergique
+282,Fruit de mer
+283,Cacahuète
+284,Gluten
+285,Je voudrais
+286,Eau
+287,Thé
+288,café
+289,Bière
+290,vin
+291,"L’addition, SVP"
+292,J’ai besoin de voir un médecin.
+293,Appelez un médecin
+294,Appelez une ambulance
+295,Où est l’hôpital ?
+296,Je ne me sens pas très bien
+297,J’ai mal ici
+298,Où sont les toilettes ?
+299,A l’aide 
+300,Police
+301,Danger
+302,Je suis perdu(e)
+303,Bonne journée 
+304,Il faut qu'on parle 
+305,J'ai besoin de te parler
+306,Je suis etudiant a l'université de Buea
+307,Je suis en deuxième année 
